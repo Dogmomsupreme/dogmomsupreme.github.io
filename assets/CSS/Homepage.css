@@ -14,7 +14,6 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
-
 .panda-image {
     height: 400px;
     background: url("../images/panda.jpg");
@@ -23,9 +22,5 @@
     background-position: 50% 30%; 
     background-size: cover;
 }
-
-.cupcake-image {
-    height: 500px;
-    background: url("../images/cupcake.jpg");
-    background-repeat: no-repeat;
+.navbar {width: auto
 }
