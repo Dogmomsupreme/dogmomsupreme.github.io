@@ -7,14 +7,14 @@
     width:250px;
     height:250px;
 }
-.fruit-image {
+.firstface {
     background-image: url("../images/fruit.jpg");
     height: 200px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
-.panda-image {
+.about {
     height: 400px;
     background: url("../images/panda.jpg");
     background-repeat: no-repeat;
