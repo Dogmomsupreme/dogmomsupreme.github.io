@@ -25,5 +25,11 @@
 .navbar {width: auto;
 }
 .navbar-nav {
+    display:block;
+    list-style-type: none;
+    text-align:center;
+}
+.nav-item {
     display: inline-block;
+    padding-right: 90px;
 }
