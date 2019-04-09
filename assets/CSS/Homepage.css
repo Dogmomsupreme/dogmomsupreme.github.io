@@ -24,6 +24,6 @@
 }
 .navbar {width: auto;
 }
-.navitem {
+.navbar-nav {
     display: inline-block;
 }
