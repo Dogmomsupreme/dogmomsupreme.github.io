@@ -23,6 +23,7 @@
     background-size: cover;
 }
 .navbar {width: auto;
-    position: relative;
+}
+.navitem {
     display: inline-block;
 }
